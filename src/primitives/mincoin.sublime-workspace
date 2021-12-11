@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"0x",
+				"0x1e0ffff0"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/chainparams.cpp",
+			"settings":
+			{
+				"buffer_size": 17881,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/wallet/wallet.h",
+			"settings":
+			{
+				"buffer_size": 36651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/transaction.h",
+			"settings":
+			{
+				"buffer_size": 14038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/block.h",
+			"settings":
+			{
+				"buffer_size": 3756,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/transaction.cpp",
+			"settings":
+			{
+				"buffer_size": 5217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/block.cpp",
+			"settings":
+			{
+				"buffer_size": 1634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/steve/workspace/auxpow/mincoin/src/hash.h",
+			"settings":
+			{
+				"buffer_size": 6503,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/steve/workspace/auxpow/mincoin/src",
+		"/home/steve/workspace/auxpow/mincoin/src/wallet"
+	],
+	"file_history":
+	[
+		"/home/steve/workspace/auxpow/mincoin/src/primitives/block.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/primitives/block.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/validation.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/pow.cpp",
+		"/home/steve/workspace/auxpow/mincoin/src/validation.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/primitives/pureheader.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/hash.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/primitives/pureheader.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/auxpow.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/validation.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/primitives/transaction.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/wallet/wallet.h",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/primitives/transaction.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/chainparams.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/auxpow.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/chain.h",
+		"/home/steve/workspace/auxpow/mincoin/src/chainparams.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/consensus/merkle.cpp",
+		"/home/steve/workspace/auxpow/apcoin/apcoin/src/consensus/merkle.h"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CPureBlockHeader",
+			"CMerkleTx",
+			"gethash",
+			"1000000",
+			"block does not have our chain ID",
+			"nVersion",
+			"IsLegacy",
+			"islegacy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/chainparams.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 17881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5846,
+								5846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/wallet/wallet.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6947,
+								6947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3678.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/transaction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4855,
+								4855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1818.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/block.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								870
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/transaction.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1821,
+								1821
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 526.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/primitives/block.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/steve/workspace/auxpow/mincoin/src/hash.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4595,
+								4595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2311.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mincoin.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

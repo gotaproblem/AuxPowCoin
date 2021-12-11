@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+
+ 	"settings":
+     {
+          "sublimegdb_executables":
+          {
+              "apcoind":
+              {
+                  "workingdir": "${folder:${project_path:apcoind}}",
+                  "commandline": "gdb --interpreter=mi ./apcoind"
+              }
+          }
+     }
+
+}
